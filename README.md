@@ -1,6 +1,6 @@
 # Opa! Eu sou Fernando Bhering
 
-📚 Estudando HTML e CSS
+📚 Estudando HTML, CSS e JAVASCRIPT
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
